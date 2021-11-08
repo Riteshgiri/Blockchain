@@ -4,7 +4,7 @@
 
 Get the code:
 
-git clone https://github.com/anders94/blockchain-demo.git
+git clone https://github.com/Riteshgiri/Blockchain.git
 Install dependencies:
 
 1. pip install Flask 0.12.2
